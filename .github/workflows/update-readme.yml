@@ -13,5 +13,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Run update-readme.sh
-        run: ../update-readme.sh
+      - name: Set up Git
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add .
+          git commit -m 'Update README'
+          git push
