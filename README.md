@@ -29,4 +29,6 @@ I'm Gino, a 32-year-old Madrid based web developer.
 
 ## my github stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnovl&layout=compact&theme=radical)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnovl)](https://github.com/anuraghazra/github-readme-stats)
