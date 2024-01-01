@@ -5,12 +5,12 @@ I'm Gino, a 32-year-old Madrid based web developer.
 - A bit more about me: A try to learn something new every day.
 
 ## Skills
-- Languages: TypeScript, JavaScript, Java, etc...
-- Frameworks: React, Nextjs
-- Styles: CSS
-- Databases: MySQL, SQL, Mongo
+- 👨‍💻 Languages: TypeScript, JavaScript, Java, etc...
+- ⚙️ Frameworks: React, Nextjs
+- 👁️ Styles: CSS
+- 💽 Databases: MySQL, SQL, Mongo
 - And much more! ;)
 
-## 📫 Contact
-- Discord: @_g0n_11111
+## Contact
+- @_g0n_11111 on Discord
 
