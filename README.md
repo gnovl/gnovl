@@ -19,7 +19,6 @@ I'm Gino, a 32-year-old Madrid based web developer.
 
 
 
-- 
 ### **Languages and Tools:**
   - 🔥 Currently learning other stuff ;)
 
