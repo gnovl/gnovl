@@ -12,7 +12,8 @@ I'm Gino, a 32-year-old Madrid based web developer.
 
 - 👁️ Styles: CSS
 - 💽 Databases: MySQL, SQL, Mongo
-- 🔥 Currently learning other stuff ;)
+**Languages and Tools:**
+  - 🔥 Currently learning other stuff ;)
 
 
 ## Contact
