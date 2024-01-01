@@ -29,9 +29,9 @@ I'm Gino, a 32-year-old Madrid based web developer.
 
 ## my github stats
 
-📊 **this week i spent my time on:**
+📊
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gnovl&layout=compact&theme=radical)
+![Wakapi Stats](https://wakapi.dev/api/compat/github/v1/user/gnovl/project/total)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnovl&layout=compact&theme=radical)
 
