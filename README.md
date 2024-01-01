@@ -1,7 +1,7 @@
 Hi there! 👋
 I'm Gino, a 32-year-old Madrid based web developer.
 
-Biography
+## Biography
 A bit more about me: A try to learn something new every day.
 
 Skills
@@ -12,6 +12,6 @@ Databases: MySQL, SQL, Mongo
 [Add more skills or technologies as necessary]
 And much more! ;)
 
-📫 Contact
+## 📫 Contact
 Discord: @_g0n_11111
 
