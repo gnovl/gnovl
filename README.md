@@ -6,9 +6,9 @@ I'm Gino, a 32-year-old Madrid based web developer.
 
 # Skills
 - **Languages and Tools:** 
- [![TypeScript]([link-to-typescript-image](https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg))](link-to-typescript-page)
-[![Java]([link-to-java-image](https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg))](link-to-java-page)
-[![JavaScript]([link-to-javascript-image](https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg))](link-to-javascript-page)
+ [![TypeScript](https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg)](link-to-typescript-page)
+[![Java](https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg)](link-to-java-page)
+[![JavaScript](https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg)](link-to-javascript-page)
 [![Other Language](link-to-other-language-image)](link-to-other-language-page)
 [Add more languages with corresponding images]
 - 👁️ Styles: CSS
