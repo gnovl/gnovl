@@ -5,7 +5,7 @@ I'm Gino, a 32-year-old Madrid based web developer.
 - A bit more about me: A try to learn something new every day.
 
 ## Skills
-- 👨‍💻 Languages: ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+- 👨‍💻 Languages: ![TypeScript](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg)
 - ⚙️ Frameworks: React, Nextjs
 - 👁️ Styles: CSS
 - 💽 Databases: MySQL, SQL, Mongo
