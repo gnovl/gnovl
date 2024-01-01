@@ -27,7 +27,7 @@ I'm Gino, a 32-year-old Madrid based web developer.
 
 - [@\_g0n_11111](https://discordapp.com/users/_g0n_11111) on Discord
 
-## my github stats
+## my github st
 
 📊
 
