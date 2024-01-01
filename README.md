@@ -12,5 +12,5 @@ I'm Gino, a 32-year-old Madrid based web developer.
 - And much more! ;)
 
 ## Contact
-- **Discord:** [@_g0n_11111](https://discordapp.com/users/your_discord_user_id)
+- **Discord:** [@_g0n_11111](https://discordapp.com/users/_g0n_11111)
 
