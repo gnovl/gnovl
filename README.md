@@ -27,6 +27,6 @@ I'm Gino, a 32-year-old Madrid based web developer.
 
 - [@\_g0n_11111](https://discordapp.com/users/_g0n_11111) on Discord
 
-my github stats
+## my github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnovl)](https://github.com/anuraghazra/github-readme-stats)
