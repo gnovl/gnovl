@@ -9,6 +9,7 @@ I'm Gino, a 32-year-old Madrid based web developer.
 - ⚙️ Frameworks: React, Nextjs
 - 👁️ Styles: CSS
 - 💽 Databases: MySQL, SQL, Mongo
+- 🤓 Currently learning other stuff ;)
 
 
 ## Contact
