@@ -4,8 +4,7 @@ I'm Gino, a 32-year-old Madrid based web developer.
 
 ## About me
 
-- A bit more about me: A try to learn something new every day.
-- [Visit my portfolio](https://gnovl.github.io/portfolio/)
+- I try to learn something new every day.
 
 ### **Languages and Tools:**
 
@@ -19,6 +18,8 @@ I'm Gino, a 32-year-old Madrid based web developer.
 <code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/oracle.svg" alt="Other Language" height="20"/></code>
 <code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="Other Language" height="20"/></code>
 <code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/json.svg" alt="Other Language" height="20"/></code>
+<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" alt="Other Language" height="20"/></code>
+<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" alt="Other Language" height="20"/></code>
 
 ### **What i'm up to:**
 
@@ -27,6 +28,7 @@ I'm Gino, a 32-year-old Madrid based web developer.
 ## Contact
 
 - [@\_g0n_11111](https://discordapp.com/users/_g0n_11111) on Discord
+- Check out my projects at [My portfolio](https://gnovl.github.io/portfolio/)
 
 ## 📊 my github stats
 
