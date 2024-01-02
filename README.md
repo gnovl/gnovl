@@ -2,9 +2,10 @@
 
 I'm Gino, a 32-year-old Madrid based web developer.
 
-## About
+## About me
 
 - A bit more about me: A try to learn something new every day.
+- [Visit my portfolio](https://gnovl.github.io/portfolio/)
 
 ### **Languages and Tools:**
 
