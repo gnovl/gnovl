@@ -27,7 +27,7 @@ I'm Gino, a 32-year-old Madrid based web developer.
 ## Contact
 
 - [@\_g0n_11111](https://discordapp.com/users/_g0n_11111) on Discord
-- Check out my projects at [My portfolio](https://gnovl.github.io/portfolio/)
+- Explore my projects at [My portfolio](https://gnovl.github.io/portfolio/)
 
 ## 📊 my github stats
 
