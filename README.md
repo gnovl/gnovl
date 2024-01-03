@@ -1,7 +1,8 @@
 ## Hi there! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/gnovl) |
-I'm Gino, a 32-year-old Madrid based web developer.
+![GitHub followers](https://img.shields.io/github/followers/gnovl)
+
+# I'm Gino, a 32-year-old Madrid based web developer.
 
 ## About me
 
