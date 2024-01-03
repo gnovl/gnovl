@@ -1,5 +1,5 @@
 <div align="center">
-<p align="center">
+<p>
   <b>This text is centered</b>
 </p>
 <a href="https://github.com/gnovl">
