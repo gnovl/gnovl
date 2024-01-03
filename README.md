@@ -24,8 +24,8 @@
 
 ## Contact
 
-- <code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/discord.svg" alt="Other Language" height="27"/></code> [@\_g0n_11111](https://discordapp.com/users/_g0n_11111)
-- Explore my projects at [My portfolio](https://gnovl.github.io/portfolio/)
+- <code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/discord.svg" alt="Other Language" height="20"/></code> [@\_g0n_11111](https://discordapp.com/users/_g0n_11111) Discord
+- 🌐 [My portfolio](https://gnovl.github.io/portfolio/) Explore my portfolio
 
 ## 📊 my github stats
 
