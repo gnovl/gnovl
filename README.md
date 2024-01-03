@@ -1,9 +1,11 @@
 ## Hi there! 👋
 
+<div align="center">
 [![Banner Image](https://github.com/gnovl/gnovl/blob/main/banner.png)](https://github.com/gnovl)
 
 ![GitHub followers](https://img.shields.io/github/followers/gnovl)
 
+</div>
 ##
 
 I'm Gino, a 32-year-old Madrid based web developer.
