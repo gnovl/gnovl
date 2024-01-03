@@ -1,5 +1,7 @@
 <div align="center">
-Hi there! 👋
+<p align="center">
+  <b>This text is centered</b>
+</p>
 <a href="https://github.com/gnovl">
     <img src="https://github.com/gnovl/gnovl/blob/main/banner.png" alt="Banner Image">
   </a>
