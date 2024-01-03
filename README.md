@@ -1,10 +1,9 @@
 ## Hi there! 👋
 
 <div align="center">
-<a href="https://github.com/user">
+<a href="https://github.com/gnovl">
     <img src="https://github.com/gnovl/gnovl/blob/main/banner.png" alt="Banner Image">
   </a>
-[![Banner Image](https://github.com/gnovl/gnovl/blob/main/banner.png)](https://github.com/gnovl)
 
 ![GitHub followers](https://img.shields.io/github/followers/gnovl)
 
