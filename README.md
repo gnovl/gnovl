@@ -1,6 +1,5 @@
-## Hi there! 👋
-
 <div align="center">
+Hi there! 👋
 <a href="https://github.com/gnovl">
     <img src="https://github.com/gnovl/gnovl/blob/main/banner.png" alt="Banner Image">
   </a>
