@@ -1,5 +1,7 @@
 ## Hi there! 👋
 
+[![Banner Image](https://github.com/gnovl/gnovl/blob/main/banner.png)](https://github.com/gnovl)
+
 ![GitHub followers](https://img.shields.io/github/followers/gnovl)
 
 ##
