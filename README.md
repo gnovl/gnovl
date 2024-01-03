@@ -6,6 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/gnovl)
 
 </div>
+
 ##
 
 I'm Gino, a 32-year-old Madrid based web developer.
