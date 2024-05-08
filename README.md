@@ -12,7 +12,7 @@
 
 ##
 
-I'm Gino, a 32-year-old Madrid based web developer.
+I'm Gino, a 33 years old Madrid based web developer.
 
 ## About me
 
