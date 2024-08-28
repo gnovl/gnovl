@@ -55,8 +55,8 @@
 
 ## Contact
 
-- <code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/discord.svg" alt="Other Language" height="20"/></code> [@\_g0n_11111](https://discordapp.com/users/_g0n_11111) Discord
-- <code><img src="https://cdn-icons-png.flaticon.com/512/558/558593.png" alt="Other Language" height="20"/></code> [My portfolio](https://gnovl.github.io/portfolio/) Explore my portfolio
+<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/discord.svg" alt="Other Language" height="20"/></code> [@\_g0n_11111](https://discordapp.com/users/_g0n_11111) Discord
+<code><img src="https://cdn-icons-png.flaticon.com/512/558/558593.png" alt="Other Language" height="20"/></code> [My portfolio](https://gnovl.github.io/portfolio/) Explore my portfolio
 
 ## 📊 my github stats
 
