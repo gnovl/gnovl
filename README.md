@@ -10,13 +10,9 @@
 
 </div>
 
-##
-
-I'm Gino, a 33 years old Madrid-based web developer.
-
 ## About me
 
-- Full Stack Developer passionate about creating efficient and scalable applications.
+- I'm Gino, a 33 years old Madrid-based web developer. Full Stack Developer passionate about creating efficient and scalable applications.
 
 ## Skills
 
@@ -57,5 +53,6 @@ I'm Gino, a 33 years old Madrid-based web developer.
 
 ## 📊 my github stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gnovl&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnovl&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gnovl&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnovl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
