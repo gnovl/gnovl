@@ -16,24 +16,39 @@ I'm Gino, a 33 years old Madrid-based web developer.
 
 ## About me
 
-- I try to learn something new every day.
+- Full Stack Developer passionate about creating efficient and scalable applications.
 
-### **Languages and Tools:**
+## Skills
 
-<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg" alt="TypeScript" height="27"/> </code>
-<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" alt="Java" height="27"/></code>
-<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" alt="JavaScript" height="27"/></code>
-<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" alt="Other Language" height="27"/></code>
-<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/react.svg" alt="Other Language" height="27"/></code>
-<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" alt="Other Language" height="27"/></code>
-<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="Other Language" height="27"/></code>
-<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/oracle.svg" alt="Other Language" height="27"/></code>
-<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="Other Language" height="27"/></code>
-<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/json.svg" alt="Other Language" height="27"/></code>
-<code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" alt="Other Language" height="27"/></code>
-<code><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nextjs-icon.svg" alt="Other Language" height="27"/></code>
-<code><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nodejs.svg" alt="Other Language" height="27"/></code>
-<code><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/prisma.svg" alt="Other Language" height="27"/></code>
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Contact
 
