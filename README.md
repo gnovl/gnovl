@@ -12,7 +12,7 @@
 
 ##
 
-I'm Gino, a 33 years old Madrid based web developer.
+I'm Gino, a 33 years old Madrid-based web developer.
 
 ## About me
 
@@ -31,6 +31,9 @@ I'm Gino, a 33 years old Madrid based web developer.
 <code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="Other Language" height="27"/></code>
 <code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/json.svg" alt="Other Language" height="27"/></code>
 <code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" alt="Other Language" height="27"/></code>
+<code><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nextjs-icon.svg" alt="Other Language" height="27"/></code>
+<code><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nodejs.svg" alt="Other Language" height="27"/></code>
+<code><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/prisma.svg" alt="Other Language" height="27"/></code>
 
 ## Contact
 
