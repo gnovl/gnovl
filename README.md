@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-  <b>Hi there 👋!</b>
+  <b>Hi there,</b>
 </p>
 <a href="https://github.com/gnovl">
     <img src="https://github.com/gnovl/gnovl/blob/main/banner.png" alt="Banner Image">
@@ -12,7 +12,7 @@
 
 ## About me
 
-- I'm Gino, a 33 years old Madrid-based web developer. Full Stack Developer passionate about creating efficient and scalable applications.
+- I'm a 33-year-old Madrid-based Backend Developer with a Full-Stack foundation. My focus lies in mastering backend development to design reliable architectures, optimize performance, and ensure seamless integration. Always eager to learn, improve, and contribute to impactful projects.
 
 ## Skills
 
@@ -55,7 +55,6 @@
 
 ## Contact
 
-- <code><img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/discord.svg" alt="Other Language" height="20"/></code> [@\_g0n_11111](https://discordapp.com/users/_g0n_11111) Discord
 - <code><img src="https://cdn-icons-png.flaticon.com/512/558/558593.png" alt="Other Language" height="20"/></code> [My portfolio](https://gnovl.github.io/portfolio/) Explore my portfolio
 
 ## 📊 my github stats
