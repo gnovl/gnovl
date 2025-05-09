@@ -100,7 +100,6 @@ While my primary focus is DevOps and infrastructure, I have a strong foundation 
 ## 📫 Let's Connect
 
 - <code><img src="https://cdn-icons-png.flaticon.com/512/558/558593.png" alt="Portfolio" height="20"/></code> [Portfolio](https://gnovl.github.io/portfolio/)
-- <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="20"/></code> [LinkedIn](https://linkedin.com/in/yourusername)
 
 ## 📊 GitHub Stats
 
