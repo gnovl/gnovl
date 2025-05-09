@@ -110,9 +110,3 @@ While my primary focus is DevOps and infrastructure, I have a strong foundation 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnovl&layout=compact&theme=merko)](https://github.com/gnovl)
 
 </div>
-
----
-
-<div align="center">
-<p>⭐️ From <a href="https://github.com/gnovl">gnovl</a></p>
-</div>
