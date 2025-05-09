@@ -10,7 +10,7 @@
 
 </div>
 
-## 👋 About Me
+## 📄 About Me
 
 I'm a specialized DevOps Engineer based in Madrid with experience architecting, automating, and optimizing mission-critical deployments. My focus areas include:
 
