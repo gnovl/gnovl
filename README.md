@@ -70,10 +70,10 @@ Through my recent projects, I've gained hands-on experience with DevOps practice
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
-## 🤖 AI & Emerging Technologies
+## 🤖 AI
 
 ![Large Language Models](https://img.shields.io/badge/LLMs-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
 
 ## 🚀 Featured Projects
 
