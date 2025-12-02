@@ -1,10 +1,6 @@
 # Gino Varela
 
-Technology enthusiast based in Madrid, Spain.
-
-## About
-
-I enjoy working with web technologies and exploring different aspects of software development, from building applications to understanding deployment and infrastructure.
+Based in Madrid, Spain.
 
 ## Projects
 
