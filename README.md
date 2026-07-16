@@ -8,10 +8,6 @@ Based in Madrid, Spain.
 
 [View Project](https://github.com/gnovl/site-monitor-service)
 
-**Averías Hogar** - A professional website for plumbing and home repair services built with Next.js and TypeScript. Features include a project gallery, contact form with WhatsApp integration, and responsive design. Deployed on a VPS with Nginx and SSL.
-
-[View Project](https://github.com/gnovl/averias-hogar) | [Live Site](https://www.averiashogar.es)
-
 ## Links
 
 [Portfolio Website](https://gnovl.github.io/portfolio/)
